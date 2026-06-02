@@ -17,7 +17,7 @@ Final-year IT student who builds things that actually work — from blockchain f
 - 🏫 B.Tech Information Technology · MIT Bengaluru
 - 📍 Bengaluru, India
 - 💬 Ask me about REST APIs, test automation, or DeFi graph analysis
-- 📫 Reach me at: navaleanoushka35@gmail.com · 
+- 📫 Reach me at: navaleanoushka35@gmail.com · https://www.linkedin.com/in/anoushka-navale-817b34343/
 
 ---
 

@@ -50,12 +50,12 @@ Final-year IT student who builds things that actually work — from blockchain f
 ## GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnoushkaNavale&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnoushkaNavale&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AnoushkaNavale&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnoushkaNavale&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AnoushkaNavale&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AnoushkaNavale&theme=tokyonight&hide_border=true" />
 </p>
 
 ---

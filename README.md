@@ -76,4 +76,4 @@ Final-year IT student who builds things that actually work — from blockchain f
   <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
 
-<p align="center"><em>Currently open to placement opportunities · June 2026 onwards</em></p>
+

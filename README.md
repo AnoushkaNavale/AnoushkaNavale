@@ -39,11 +39,11 @@ Final-year IT student who builds things that actually work — from blockchain f
 
 | Project | What it does | Stack |
 |---|---|---|
-| [🔗 Smurfing Hunter](https://github.com/AnoushkaNavale/Smurfing-hunter) | DeFi money laundering detection via temporal graph analysis — maps fan-out/fan-in patterns and peeling chains to score illicit fund flows | Python, Graph ML, Blockchain |
-| [🧪 Playwright E2E Framework](https://github.com/AnoushkaNavale/Playwright-E2E-Automation-Framework-) | Full test automation suite for a React e-commerce app. Auth, cart, checkout, API validation, cross-browser CI | Playwright, JavaScript, GitHub Actions |
-| [📊 SME Cash Flow Forecasting](https://github.com/AnoushkaNavale/SME-Cash-Flow-Forecasting-System) | End-to-end financial analytics platform predicting short-term cash flow using historical transaction data and time-series modeling | Python, ML, Pandas |
-| [⚡ API Health Monitor](https://github.com/AnoushkaNavale/Api-Health-Monitoring-Tool) | Node.js tool that monitors REST APIs, measures response times, detects failures, and logs metrics | TypeScript, Node.js |
-| [🔐 Scalable REST API](https://github.com/AnoushkaNavale/scalable-rest-api) | REST API with JWT authentication and role-based access control built on Node.js + Prisma + PostgreSQL | Node.js, Express, PostgreSQL |
+| [ Smurfing Hunter](https://github.com/AnoushkaNavale/Smurfing-hunter) | DeFi money laundering detection via temporal graph analysis — maps fan-out/fan-in patterns and peeling chains to score illicit fund flows | Python, Graph ML, Blockchain |
+| [ Playwright E2E Framework](https://github.com/AnoushkaNavale/Playwright-E2E-Automation-Framework-) | Full test automation suite for a React e-commerce app. Auth, cart, checkout, API validation, cross-browser CI | Playwright, JavaScript, GitHub Actions |
+| [ SME Cash Flow Forecasting](https://github.com/AnoushkaNavale/SME-Cash-Flow-Forecasting-System) | End-to-end financial analytics platform predicting short-term cash flow using historical transaction data and time-series modeling | Python, ML, Pandas |
+| [ API Health Monitor](https://github.com/AnoushkaNavale/Api-Health-Monitoring-Tool) | Node.js tool that monitors REST APIs, measures response times, detects failures, and logs metrics | TypeScript, Node.js |
+| [ Scalable REST API](https://github.com/AnoushkaNavale/scalable-rest-api) | REST API with JWT authentication and role-based access control built on Node.js + Prisma + PostgreSQL | Node.js, Express, PostgreSQL |
 
 ---
 
